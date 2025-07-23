@@ -1,6 +1,6 @@
-# Man in the Mirror: Leveraged ETF Shorting Strategy Backtest
+# Handsome Rob: Leveraged ETF Shorting Strategy Backtest
 
-This project provides a comprehensive backtesting framework for the "Man in the Mirror" trading strategy, implemented using the `backtrader` library in Python. The strategy focuses on simultaneously short-selling a pair of correlated assets, typically a leveraged ETF and its inverse counterpart (e.g., SOXL and SOXS).All data was sourced from yahoo finance using the python library.
+This project provides a comprehensive backtesting framework for the "Handsome Rob" trading strategy, implemented using the `backtrader` library in Python. The strategy focuses on simultaneously short-selling a pair of correlated assets, typically a leveraged ETF and its inverse counterpart (e.g., SOXL and SOXS).All data was sourced from yahoo finance using the python library.
 
 ## Table of Contents
 - [Strategy Explained](#strategy-explained)
@@ -21,7 +21,7 @@ This project provides a comprehensive backtesting framework for the "Man in the 
 
 ## Strategy Explained
 
-The "Man in the Mirror" strategy is built on the idea of holding simultaneous short positions in a leveraged asset and its inverse. The goal is to capitalize on the value decay inherent in many leveraged financial products, while maintaining a market-neutral stance.
+The "Handsome Rob" strategy is built on the idea of holding simultaneous short positions in a leveraged asset and its inverse. The goal is to capitalize on the value decay inherent in many leveraged financial products, while maintaining a market-neutral stance.
 
 ### Core Concept
 The strategy identifies a pair of assets (e.g., a 3x leveraged bull ETF and a 3x leveraged bear ETF on the same underlying index). It then opens short positions in both, with specific dollar-value allocations for each.
