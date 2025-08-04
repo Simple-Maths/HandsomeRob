@@ -1,0 +1,75 @@
+direxion = {
+    "AI 2X": {
+        "leveraged": "AIBU",
+        "inverse": "AIBD"
+    },
+    "Energy 2X": {
+        "leveraged": "ERX",
+        "inverse": "ERY"
+    },
+    "Gold Miners 2X": {
+        "leveraged": "NUGT",
+        "inverse": "DUST"
+    },
+    "Junior Gold Miners 2X": {
+        "leveraged": "JNUG",
+        "inverse": "JDST"
+    },
+    "Oil 2X": {
+        "leveraged": "GUSH",
+        "inverse": "DRIP"
+    },
+    "Treasury 20+ 3X": {
+        "leveraged": "TMF",
+        "inverse": "TMV"
+    },
+    "Treasury 7-10 3X": {
+        "leveraged": "TYD",
+        "inverse": "TYO"
+    },
+    "China 3X": {
+        "leveraged": "YINN",
+        "inverse": "YANG"
+    },
+    "MSCI Emerging Markets 3X": {
+        "leveraged": "EDC",
+        "inverse": "EDZ"
+    },
+    "SP500 3X": {
+        "leveraged": "SPXL",
+        "inverse": "SPXS"
+    },
+    "Russel 3X": {
+        "leveraged": "TNA",
+        "inverse": "TZA"
+    },
+    "Dow Jones 3X": {
+        "leveraged": "WEBL",
+        "inverse": "WEBS"
+    },
+    "Financial Select 3X": {
+        "leveraged": "FAS",
+        "inverse": "FAZ"
+    },
+    "Real Estate 3X": {
+        "leveraged": "DRN",
+        "inverse": "DRV"
+    },
+    "S&P 500 High Beta 3X": {
+        "leveraged": "HIBL",
+        "inverse": "HIBS"
+    },
+    "Biotechnology 3X": {
+        "leveraged": "LABU",
+        "inverse": "LABD"
+    },
+
+    "Semiconductor 3X": {
+        "leveraged": "SOXL",
+        "inverse": "SOXS"
+    },
+    "Technology 3X": {
+        "leveraged": "TECL",
+        "inverse": "TECS"
+    },
+}
